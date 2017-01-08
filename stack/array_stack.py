@@ -9,7 +9,7 @@ class ArrayStack(object):
         self._data = []
 
     def is_empty(self):
-        """ Return true is stack empty """
+        """ Return true if stack empty """
         return len(self._data) == 0
 
     def push(self, elem):
