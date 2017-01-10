@@ -2,12 +2,11 @@
 
 ## Data Structures
 
+### Python
+
 * Stacks
   * Array stack
-  * Linked list stack
 * Queues
-* Deques
-* Linked lists
-* Doubly linked lists
+  * Array stack
 * Trees
-* Binary trees
+  * Binary trees
