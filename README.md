@@ -10,3 +10,5 @@
   * Array stack
 * Trees
   * Binary trees
+* Trie
+  * Trie
